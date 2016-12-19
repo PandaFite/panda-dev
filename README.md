@@ -1,2 +1,2 @@
 # panda-dev
-development branch for pandaplayshd.com
+development repository for pandaplayshd.com
